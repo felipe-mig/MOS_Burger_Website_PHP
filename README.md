@@ -32,7 +32,7 @@ At the end, the users can see the final order as the code of their ticket is the
 
 
 
-♦️ You will need a local server and import the database to display the website on your browser. 
+♦️ You may need a local server and import the database to display the website on your browser. 
 
 ## 📒 How to run a local server
 
