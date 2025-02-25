@@ -1,9 +1,9 @@
 ## 📄 Description
 
-This is a project built with PHP in which I made a new website version of the iconic Japanese fast food restaurant MOS Burger.
+🍟🍔This is a project built with PHP in which I made a new website version of the iconic Japanese fast food restaurant MOS Burger.
 The user can make an order and personalise the menu as they wish. I used the SESSION memory to hold the data.
 Moreover, the user can go back to a previous section without losing the information of the ticket by handling the session memory with control programming.
-At the end, the users can see the final order as the code of their ticket is their session ID. 🍔🍟
+At the end, the users can see the final order as the code of their ticket is their session ID. 🍟🍔
 
 * No frameworks
 * Local content
